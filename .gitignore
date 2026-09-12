@@ -1,0 +1,11 @@
+# Private credentials — NEVER share these files
+config.js
+backend/.env
+
+# Python
+backend/__pycache__/
+backend/venv/
+*.pyc
+
+.vercel
+.env*
